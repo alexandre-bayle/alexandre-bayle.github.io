@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Alexandre Bayle
 
-You can use the [editor on GitHub](https://github.com/alexandre-bayle/alexandre-bayle.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Biography
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications
 
-### Markdown
+Pierre Bayle, Alexandre Bayle, Lucas Janson, and Lester Mackey (2020). Cross-validation Confidence Intervals for Test Error. In _Advances in Neural Information Processing Systems (NeurIPS)_, pages 16339–16350.
+[[arXiv]](https://arxiv.org/abs/2007.12671)
+[[NeurIPS]](https://papers.nips.cc/paper/2020/file/bce9abf229ffd7e570818476ee5d7dde-Paper.pdf)
+[[code]](https://github.com/alexandre-bayle/cvci)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexandre-bayle/alexandre-bayle.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Selected talks
