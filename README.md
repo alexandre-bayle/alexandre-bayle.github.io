@@ -2,7 +2,7 @@
 
 <td id="layout-content">
 <table class="imgtable"><tr><td>
-<img src="../Photo_Alexandre_Bayle.jpg" alt="Photo" width="250" height="368"/>&nbsp;</td>
+<img src="../Photo_Alexandre_Bayle.jpg" alt="Photo" width="250" height="320"/>&nbsp;</td>
 <td align="left"><p>I am a rising third-year PhD student in the Department of Statistics at Harvard University, where I am fortunate to be advised by Professor <a href="http://lucasjanson.fas.harvard.edu/">Lucas Janson</a>. My research interests lie at the intersection of statistics, machine learning and probability.
 </p>
 <p>
