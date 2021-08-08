@@ -1,5 +1,3 @@
-# Alexandre Bayle
-
 ## Biography
 I am a rising third-year PhD student in the Department of Statistics at Harvard University, where I am fortunate to be advised by Professor [Lucas Janson](http://lucasjanson.fas.harvard.edu/). My research interests lie at the intersection of statistics, machine learning and probability.
 
