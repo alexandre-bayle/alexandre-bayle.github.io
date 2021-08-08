@@ -1,6 +1,5 @@
 ## Alexandre Bayle
 
-<link rel="stylesheet" href="../jemdoc.css" type="text/css" />
 <table class="imgtable"><tr><td>
 <img src="../Photo_Alexandre_Bayle.jpg" alt="" width="700" height="250"/>&nbsp;</td>
 <td align="left"><p>I am a rising third-year PhD student in the Department of Statistics at Harvard University, where I am fortunate to be advised by Professor <a href="http://lucasjanson.fas.harvard.edu/">Lucas Janson</a>. My research interests lie at the intersection of statistics, machine learning and probability.
