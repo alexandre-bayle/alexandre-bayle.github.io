@@ -4,6 +4,8 @@ I am a rising third-year PhD student in the Department of Statistics at Harvard 
 
 Prior to Harvard, I received my M.S. ([Ingénieur Polytechnicien Program](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program)) from the École Polytechnique with a specialization in Applied Mathematics and Computer Science.
 
+![Photo](../Photo_Alexandre_Bayle.jpg)
+
 ## Publications
 
 Pierre Bayle, Alexandre Bayle, Lucas Janson, and Lester Mackey (2020). Cross-validation Confidence Intervals for Test Error. In _Advances in Neural Information Processing Systems (NeurIPS)_, pages 16339–16350.
