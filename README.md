@@ -4,7 +4,7 @@ I am a rising third-year PhD student in the Department of Statistics at Harvard 
 
 Prior to Harvard, I received my M.S. ([Ingénieur Polytechnicien Program](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program)) from the École Polytechnique with a specialization in Applied Mathematics and Computer Science.
 
-![Photo](../Photo_Alexandre_Bayle.jpg)
+<img src="../Photo_Alexandre_Bayle.jpg" alt="Photo" width="500" height="600"> 
 
 ## Publications
 
