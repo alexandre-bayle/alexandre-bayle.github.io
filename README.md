@@ -1,10 +1,11 @@
 ## Alexandre Bayle
 
+<table class="imgtable"><tr><td>
+<img src="../Photo_Alexandre_Bayle.jpg" alt="Photo" width="250" height="368">&nbsp;</td>
 I am a rising third-year PhD student in the Department of Statistics at Harvard University, where I am fortunate to be advised by Professor [Lucas Janson](http://lucasjanson.fas.harvard.edu/). My research interests lie at the intersection of statistics, machine learning and probability.
 
 Prior to Harvard, I received my M.S. ([Ingénieur Polytechnicien Program](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program)) from the École Polytechnique with a specialization in Applied Mathematics and Computer Science.
-
-<img src="../Photo_Alexandre_Bayle.jpg" alt="Photo" width="500" height="600"> 
+</td></tr></table>
 
 ## Publications
 
