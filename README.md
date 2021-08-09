@@ -15,6 +15,7 @@ Pierre Bayle, Alexandre Bayle, Lucas Janson, and Lester Mackey (2020). Cross-val
 [[arXiv](https://arxiv.org/abs/2007.12671)]
 [[NeurIPS](https://papers.nips.cc/paper/2020/file/bce9abf229ffd7e570818476ee5d7dde-Paper.pdf)]
 [[code](https://github.com/alexandre-bayle/cvci)]
+[[slides](../Alexandre_Bayle_cvci_slides.pdf)]
 
 ## Selected Talks
 
