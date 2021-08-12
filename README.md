@@ -34,6 +34,6 @@ Pierre Bayle, Alexandre Bayle, Lucas Janson, and Lester Mackey (2020). Cross-val
 
 ### Harvard University
 
-**Introduction to Statistical Inference**, teaching assistant, Spring 2021
+**Introduction to Statistical Inference** (STAT 111), teaching assistant, Spring 2021
 
-**Statistical Machine Learning**, teaching assistant, Fall 2020
+**Statistical Machine Learning** (STAT 195), teaching assistant, Fall 2020
