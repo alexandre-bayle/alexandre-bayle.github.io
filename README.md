@@ -2,7 +2,7 @@
 
 <table class="imgtable"><tr><td>
 <img src="../Photo_Alexandre_Bayle.jpg" alt="" width="700" height="250"/>&nbsp;</td>
-<td align="left"><p>I am a rising third-year PhD student in the Department of Statistics at Harvard University, where I am fortunate to be advised by Professor <a href="http://lucasjanson.fas.harvard.edu/">Lucas Janson</a>. My research interests lie at the intersection of statistics, machine learning and probability.
+<td align="left"><p>I am a third-year PhD student in the Department of Statistics at Harvard University, where I am fortunate to be advised by Professor <a href="http://lucasjanson.fas.harvard.edu/">Lucas Janson</a>. My research interests lie at the intersection of statistics, machine learning and probability.
 </p>
 <p>
 Prior to Harvard, I received my M.S. (<a href="https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program">Ingénieur Polytechnicien Program</a>) from the École Polytechnique with a specialization in Applied Mathematics and Computer Science.
